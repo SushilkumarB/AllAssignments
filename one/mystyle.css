@@ -1,0 +1,23 @@
+div {
+    color: black;
+    background-color: rgb(43, 228, 19);
+    margin-top: 10px;
+    margin-left: 1%;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+img {
+    opacity: 0.2;
+}
+
+.mydiv1 {
+    font-size: xx-large;
+    margin-left: 350px;
+    width: 300px;
+    height: 300px;
+    background-color: chartreuse;
+    border-radius: 15px;
+    box-shadow: 5px 5px;
+    float: right;
+}
